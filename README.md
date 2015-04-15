@@ -11,7 +11,7 @@ RightNow
 http://&lt;your site&gt;/app/test/p/&lt;product id&gt;
 
 ## Install
-To try this sample code, yout need to put the file under 'development' folder.
+To try this sample code, you need to put the file under 'development' folder.
 It worked in CP2.
 
 ## Licence
